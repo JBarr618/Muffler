@@ -1,0 +1,52 @@
+html{ 
+    background-color: red
+}
+.header-image {
+   background-image: url("Store Front Sign.jpg"), url("los-angeles.png");
+   width: 100%;
+   height: 325px;
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+ .navbar {
+    width: 100%;
+    background-color: turquoise;
+    overflow: auto;
+}
+* {
+    box-sizing: border-box;
+}
+.navbar a {
+    float: left;
+    padding: 12px;
+    color:lime greenyellow;
+    text-decoration: solid;
+    font-size: 20px;
+    width: 33.33%;
+    text-align: center;
+}
+
+ h1, .missionheading {
+    color: white;
+}
+.missionstatement {
+    color: rgba(94, 250, 54, 0.911);
+    font-size: 18px;
+}
+.missionbody {
+    background-image: Url("Truck On Lift getting a muffler.jpg");
+    background-color: turquoise;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.aboutusernie {
+    width: 600px;
+    height: 500px;
+    
+}
+.p_ernie {
+    color: black;
+}
